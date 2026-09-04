@@ -1,3 +1,6 @@
+# Problem: Weird or Not Weird
+# Given an integer n,print "Weird" or "Not Weird"
+# based on the given conditions.
 n = int(input().strip())
 if n %2 != 0:
         print("Weird")
